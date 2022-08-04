@@ -6,7 +6,8 @@ Calculator is a application which is used to do mathematical operations. This ca
 
 
 
-![Screenshot (1650)](https://user-images.githubusercontent.com/110468237/182845129-a5261eb1-9203-49f3-b803-491ffaa264ca.png)
+![Screenshot (1652)](https://user-images.githubusercontent.com/110468237/182845842-b3218aec-8012-4897-bdca-bbd838ccdf5e.png)
+
 
 
 
